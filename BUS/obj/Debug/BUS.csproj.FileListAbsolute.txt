@@ -1,0 +1,116 @@
+D:\c#\QL-BanGiayTheThao\BUS\bin\Debug\BUS.exe.config
+D:\c#\QL-BanGiayTheThao\BUS\bin\Debug\BUS.exe
+D:\c#\QL-BanGiayTheThao\BUS\bin\Debug\BUS.pdb
+D:\c#\QL-BanGiayTheThao\BUS\bin\Debug\DAO.exe
+D:\c#\QL-BanGiayTheThao\BUS\bin\Debug\DTO.exe
+D:\c#\QL-BanGiayTheThao\BUS\bin\Debug\DAO.pdb
+D:\c#\QL-BanGiayTheThao\BUS\bin\Debug\DAO.exe.config
+D:\c#\QL-BanGiayTheThao\BUS\bin\Debug\DTO.pdb
+D:\c#\QL-BanGiayTheThao\BUS\bin\Debug\DTO.exe.config
+D:\c#\QL-BanGiayTheThao\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\c#\QL-BanGiayTheThao\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\c#\QL-BanGiayTheThao\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\c#\QL-BanGiayTheThao\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\c#\QL-BanGiayTheThao\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\c#\QL-BanGiayTheThao\BUS\obj\Debug\BUS.exe
+D:\c#\QL-BanGiayTheThao\BUS\obj\Debug\BUS.pdb
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\bin\Debug\BUS.exe.config
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\bin\Debug\BUS.exe
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\bin\Debug\BUS.pdb
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\bin\Debug\DAO.exe
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\bin\Debug\DTO.exe
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\bin\Debug\DAO.pdb
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\bin\Debug\DAO.exe.config
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\bin\Debug\DTO.pdb
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\bin\Debug\DTO.exe.config
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\obj\Debug\BUS.exe
+C:\Users\nguye\Source\Repos\qlcuahang1\BUS\obj\Debug\BUS.pdb
+C:\Users\nguye\source\repos\qlcuahang1\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nguye\source\repos\qlcuahang1\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nguye\source\repos\qlcuahang1\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\source\repos\qlcuahang1\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\obj\Debug\BUS.exe
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\obj\Debug\BUS.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\BUS.exe.config
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\BUS.exe
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\BUS.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\DAO.exe
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\DTO.exe
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\DAO.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\DAO.exe.config
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\DTO.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\DTO.exe.config
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\source\repos\qlcuahangMain\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\BUS.exe.config
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\BUS.exe
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\BUS.pdb
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\DAO.exe
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\DTO.exe
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\DAO.pdb
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\DAO.exe.config
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\DTO.pdb
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\DTO.exe.config
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\obj\Debug\BUS.exe
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\BUS\obj\Debug\BUS.pdb
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\BUS.exe.config
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\BUS.exe
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\BUS.pdb
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DAO.exe
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DTO.exe
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DAO.pdb
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DAO.exe.config
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DTO.pdb
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DTO.exe.config
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.exe
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\BUS.exe.config
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\BUS.exe
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\BUS.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DAO.exe
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DTO.exe
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DAO.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DAO.exe.config
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DTO.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\DTO.exe.config
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.exe
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\BUS\obj\Debug\BUS.pdb

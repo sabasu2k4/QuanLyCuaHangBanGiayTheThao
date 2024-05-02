@@ -1,0 +1,85 @@
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\bin\Debug\DAO.exe.config
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\bin\Debug\DAO.exe
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\bin\Debug\DAO.pdb
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\bin\Debug\DTO.exe
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\bin\Debug\DTO.pdb
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\bin\Debug\DTO.exe.config
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\obj\Debug\DAO.exe
+C:\Users\nguye\Source\Repos\qlcuahang1\DAO\obj\Debug\DAO.pdb
+C:\Users\nguye\source\repos\qlcuahang1\DAO\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nguye\source\repos\qlcuahang1\DAO\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nguye\source\repos\qlcuahang1\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\source\repos\qlcuahang1\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\bin\Debug\DAO.exe.config
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\bin\Debug\DAO.exe
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\bin\Debug\DAO.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\bin\Debug\DTO.exe
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\bin\Debug\DTO.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\bin\Debug\DTO.exe.config
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\obj\Debug\DAO.exe
+C:\Users\nguye\source\repos\qlcuahangMain\DAO\obj\Debug\DAO.pdb
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\bin\Debug\DAO.exe.config
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\bin\Debug\DAO.exe
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\bin\Debug\DAO.pdb
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\bin\Debug\DTO.exe
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\bin\Debug\DTO.pdb
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\bin\Debug\DTO.exe.config
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\obj\Debug\DAO.exe
+C:\Users\TRAN DUC MANH\Downloads\qlcuahangMain\DAO\obj\Debug\DAO.pdb
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DAO.exe.config
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DAO.exe
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DAO.pdb
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DTO.exe
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DTO.pdb
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DTO.exe.config
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.exe
+C:\Users\nguye\Downloads\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DAO.exe.config
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DAO.exe
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DAO.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DTO.exe
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DTO.pdb
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\DTO.exe.config
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.exe
+C:\Users\nguye\source\repos\qlcuahangMain\qlcuahangMain\DAO\obj\Debug\DAO.pdb
